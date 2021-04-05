@@ -16,7 +16,7 @@ public class Ex09 {
 	// 평균 구하기
 	public void p_avg() {
 	   	avg = (int)(sum/3.0 *10)/10.0;
-	}
+	} ㅇㅇ
 	// 학점 구하기
 	public void p_hak() {
 		if(avg>=90) {
